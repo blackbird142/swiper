@@ -1,6 +1,9 @@
 # swiper
 Live wallpaper engine for Linux systems that support `feh --bg-scale`.
 
+## Preview
+![Swiper demo gif](demo.gif)
+
 ## Getting started
 ### Dependencies
 Install `feh`, `ffmpeg`, `ffprobe`
