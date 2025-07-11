@@ -35,7 +35,7 @@ Set live wallpaper at 15 fps with png frames, apply in daemon mode at 20 playbac
 ```
 
 ## Authors
-* **Spit** - [spitmirror](https://github.com/spitmirror)
+* ... [Me]
 
 ## Acknowledgments
 This project has been inspired by
